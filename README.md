@@ -5,8 +5,6 @@ Este projeto utiliza a webcam do computador para detectar rostos em tempo real u
 Antes de executar o código, instale as bibliotecas necessárias:
 
 ```bash
-Copiar
-Editar
 pip install opencv-python mediapipe
 ```
 # Como funciona?
@@ -19,8 +17,6 @@ pip install opencv-python mediapipe
 1. Clone ou baixe este repositório.
 2. Execute o script Python:
 ```bash
-Copiar
-Editar
 python seu_arquivo.py
 ```
 3. Uma janela da webcam será aberta.
@@ -29,8 +25,6 @@ python seu_arquivo.py
 # Código-fonte
 
 ```python
-Copiar
-Editar
 import cv2
 import mediapipe as mp
 
